@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "98FM5KBu7H/7xl35bjjWNm6ojUQ7RoyE8ZIVy0K4DpzXdUXlXfsstVYHTAbzi7kE1r0X9n454r0O0pf0l9ekrw==",
+  "success": true,
+  "projectFilePath": "/Users/feyzullahdurasi/Dersler/C# Dersleri/enumlar/enumlar/enumlar.csproj",
+  "expectedPackageFiles": [
+    "/Users/feyzullahdurasi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
